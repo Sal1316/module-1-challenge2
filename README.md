@@ -10,11 +10,11 @@
 
 ## GitHub repository link
 
-      https://github.com/Sal1316/module-1-challenge.git
+      https://github.com/Sal1316/module-1-challenge2.git
 
 ## GitHub published link:
 
-      https://sal1316.github.io/module-1-challenge/
+      https://sal1316.github.io/module-1-challenge2/
 
 ## Picture of page:
 

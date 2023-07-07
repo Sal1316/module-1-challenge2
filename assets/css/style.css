@@ -54,7 +54,8 @@
       font-size: 16px;
   }
   
-  /* the section does not show any other tags, but with the hero class you can add more items like images. */
+  /* the section does not show any other tags, but with the
+   hero class you can add more items like images. */
   .hero {
       height: 800px;
       width: 100%;
